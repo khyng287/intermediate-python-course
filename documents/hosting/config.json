@@ -1,5 +1,6 @@
 {
     "enabled": true,
+    "custom_domain": "humblizee.com",
     "app_default_domain": "humblize-brszh.mongodbstitch.com",
     "default_error_path": "/index.html",
     "default_error_code": "200"
