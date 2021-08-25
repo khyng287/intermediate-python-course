@@ -1,0 +1,8 @@
+{
+    "app_id": "humblize-brszh",
+    "config_version": 20210101,
+    "name": "Humblize",
+    "location": "US-VA",
+    "deployment_model": "LOCAL",
+    "environment": "development"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "61213583f8a1076210373bf8",
+    "name": "triggerHum",
+    "type": "DATABASE",
+    "config": {
+        "operation_types": [
+            "INSERT",
+            "UPDATE",
+            "DELETE",
+            "REPLACE"
+        ],
+        "database": "todo",
+        "collection": "Task",
+        "service_name": "mongodb-atlas",
+        "match": {},
+        "project": {},
+        "full_document": true,
+        "full_document_before_change": true,
+        "unordered": false
+    },
+    "function_name": "resetFunc",
+    "disabled": false
+}
